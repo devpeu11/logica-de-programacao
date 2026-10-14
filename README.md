@@ -1,4 +1,4 @@
-# logica-de-programacao
+# Logica-de-Programacao
 Exercícios que estou resolvendo enquanto estudo Lógica de Programação com o VisualG, seguindo o curso de Algoritmos do Gustavo Guanabara (Curso em Vídeo).
 
 ## Exercícios
